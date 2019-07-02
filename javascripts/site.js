@@ -1,0 +1,1 @@
+!function(){function t(){for(var t=document.getElementsByTagName("img"),e=0;e<t.length;e++)t[e].getAttribute("datasrc")&&t[e].setAttribute("src",t[e].getAttribute("datasrc"))}window.onload=t}();
